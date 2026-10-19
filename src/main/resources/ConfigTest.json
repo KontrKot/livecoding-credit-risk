@@ -1,0 +1,11 @@
+{
+  "enabledRules": {
+    "AGE_RESTRICTION": true,
+    "DEBT_BURDEN": true,
+    "BLACKLIST_COUNTRY": true
+  },
+  "rulesPriority": [
+    "AGE_RESTRICTION", "DEBT_BURDEN", "BLACKLIST_COUNTRY"
+  ],
+  "isFailFast": false
+}
